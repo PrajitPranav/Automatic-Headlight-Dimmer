@@ -13,7 +13,7 @@ const int LED5 =11;
 
 void setup()
 {
-  Serial.begin(9600);                 // the GPRS baud rate 
+  Serial.begin(9600);               
   pinMode(IR1, INPUT); 
   pinMode(IR2, INPUT); 
   pinMode(IR3, INPUT); 
