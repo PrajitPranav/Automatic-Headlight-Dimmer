@@ -1,4 +1,4 @@
-#automatic headlight
+#automatic headlight dimmer
 const int IR1   =2;
 const int IR2   =3;
 const int IR3   =4;
